@@ -11,7 +11,7 @@ Dans le cadre de mes études en Master Data Science pour l'Economie et l'Entrepr
 
 ## Compétences
 - **Langages :** Python, R, SQL, Bash, SAS
-- **Machine learning et Statistiques :** Régression linéaire et logistique, analyse exploratoire des données, tests d'hypothèses, modélisation, inférence statistique
+- **Machine learning et Statistiques :** Régression linéaire et logistique, tests d'hypothèses, modélisation, inférence statistique
 - **Gestion et manipulation de données :** Analyse exploratoire, data cleaning, machine learning, visualisation de données, web scraping, automatisation 
 - **Outils :** Git, GitHub, Jupyter Notebook, VSCode, SAS
 
