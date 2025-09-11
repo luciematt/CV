@@ -18,18 +18,6 @@ Dans le cadre de mes études en Master Data Science pour l'Economie et l'Entrepr
 ---
 
 ## Expériences
-**Projet Data Science – Analyse de ventes e-commerce**  
-*Université / Personnel – Janv. 2025 à Avril 2025*  
-- Collecte et nettoyage de données de ventes (~50 000 lignes)  
-- Analyse exploratoire et visualisation des tendances  
-- Modélisation prédictive du chiffre d’affaires futur avec Random Forest  
-- Présentation des résultats via Tableau
-
-**Assistant Analyste (stage court)**  
-*Entreprise XYZ – Juin 2024 à Août 2024*  
-- Extraction et manipulation de données SQL  
-- Création de dashboards pour le suivi des KPI  
-- Automatisation de rapports hebdomadaires en Python
 
 ---
 
@@ -48,5 +36,5 @@ Université de Strasbourg et Université de Lille, 2021 – 2024
 ---
 
 ## Langues
-- Français : Natif  
-- Anglais : Courant
+- Anglais : Niveau B2
+- Allemand : Niveau B1
