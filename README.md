@@ -10,10 +10,10 @@
 ---
 
 ## Compétences
-- **Langages :** Python, R, SQL, Bash  
-- **Data :** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Tableau, Power BI  
-- **Méthodes :** Analyse exploratoire, Data Cleaning, Machine Learning, Visualisation de données  
-- **Outils :** Git, GitHub, Jupyter Notebook, VSCode
+- **Langages :** Python, R, SQL, Bash, SAS
+- **Machine learning et Statistiques :** Régression linéaire et logistique, analyse exploratoire des données, tests d'hypothèses, modélisation, inférence statistique
+- **Gestion et manipulation de données :** Analyse exploratoire, data cleaning, machine learning, visualisation de données, web scraping, automatisation 
+- **Outils :** Git, GitHub, Jupyter Notebook, VSCode, SAS
 
 ---
 
@@ -34,18 +34,16 @@
 ---
 
 ## Formation
-**Master Data Science**  
-Université ABC, 2024 – 2026
+**Master Data Science pour l'Economie et l'Entreprise (DS2E)**  
+Université de Strasbourg, 2024 – 2026
 
-**Licence Informatique**  
-Université DEF, 2021 – 2024
+**Licence Economie et Gestion - Parcours Economie, Statistiques et Modélisation**  
+Université de Strasbourg et Université de Lille, 2021 – 2024
 
 ---
 
 ## Projets / Portfolio
-- Kaggle : [Lien vers profil](https://www.kaggle.com/luciem)  
-- Mini-dashboard Power BI : [Lien](#)  
-- Analyse des données météorologiques avec Python : [Lien GitHub](#)
+-
 
 ---
 
