@@ -1,6 +1,6 @@
 # Lucie M.
 **Data Scientist / Data Analyst**  
-📧 [luciematt@free.fr] | 📱 [+33 7 81 16 22 85]| 🌐 [https://github.com/luciematt]
+📧 luciematt@free.fr | 📱 +33 7 81 16 22 85| 🌐 https://github.com/luciematt
 
 ---
 
