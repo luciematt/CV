@@ -5,7 +5,7 @@
 ---
 
 ## Profil
-Étudiante en Master Data Science, passionnée par l'analyse de données, la visualisation et le machine learning. Recherche un stage pour appliquer mes compétences sur des projets réels.
+Dans le cadre de mes études en Master Data Science pour l'Economie et l'Entreprise (DS2E), je recherche un stage afin de mettre en pratique mes compétences en analyse de données, visualisation et machine learning sur des projets concrets, tout en contribuant à la prise de décisions basées sur les données au sein d’une entreprise.
 
 ---
 
