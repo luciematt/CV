@@ -17,21 +17,12 @@ Dans le cadre de mes études en Master Data Science pour l'Economie et l'Entrepr
 
 ---
 
-## Expériences
-
----
-
 ## Formation
 **Master Data Science pour l'Economie et l'Entreprise (DS2E)**  
 Université de Strasbourg, 2024 – 2026
 
 **Licence Economie et Gestion - Parcours Economie, Statistiques et Modélisation**  
 Université de Strasbourg et Université de Lille, 2021 – 2024
-
----
-
-## Projets / Portfolio
--
 
 ---
 
