@@ -1,0 +1,15 @@
+/* Style pour un rendu PDF de meilleure qualité */
+body {
+    /* Police plus lisse (sans-serif) */
+    font-family: "Arial", "Helvetica", sans-serif;
+    /* Taille de police légèrement plus grande (12pt est la base, 14pt ou 16pt sont plus grands) */
+    font-size: 16pt; 
+    /* Améliorer la lisibilité */
+    line-height: 1.5; 
+    margin: 1in; /* Marge autour du document */
+}
+
+/* On s'assure que le contenu du Markdown hérite bien de la police */
+p, li, h1, h2, h3 {
+    font-family: inherit;
+}
